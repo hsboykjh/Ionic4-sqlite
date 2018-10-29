@@ -1,2 +1,2 @@
-# angular5-sqlite
-simple angular5 and sqlite
+# ionic4-sqlite
+simple ionic4 and sqlite
